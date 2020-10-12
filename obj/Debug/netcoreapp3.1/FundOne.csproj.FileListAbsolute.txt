@@ -1,0 +1,13 @@
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.csprojAssemblyReference.cache
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.AssemblyInfoInputs.cache
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.AssemblyInfo.cs
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\bin\Debug\netcoreapp3.1\FundOne.exe
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\bin\Debug\netcoreapp3.1\FundOne.deps.json
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\bin\Debug\netcoreapp3.1\FundOne.runtimeconfig.json
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\bin\Debug\netcoreapp3.1\FundOne.runtimeconfig.dev.json
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\bin\Debug\netcoreapp3.1\FundOne.dll
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\bin\Debug\netcoreapp3.1\FundOne.pdb
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.dll
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.pdb
+C:\Users\Mikey\Desktop\CSharpStack\FundOne\obj\Debug\netcoreapp3.1\FundOne.genruntimeconfig.cache
